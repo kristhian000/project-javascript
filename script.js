@@ -51,7 +51,7 @@ footerButton.addEventListener("click", () => {
 // Game section
 // https://www.youtube.com/watch?v=PBcqGxrr9g8
 // https://es.stackoverflow.com/questions/303367/como-puedo-hacer-para-poder-jugar-varias-veces-en-mi-juego-de-preguntas
-// chat gpt
+// chat gpt with some problems
 var questions = [
     {question: "What is Artificial Intelligence?", options: ["A human", "Simulation of human intelligence", "A physical robot"], answer: 1 },
     {question: "Who coined the term 'artificial intelligence'?", options: ["Alan Turing", "John McCarthy", "Elon Musk"], answer: 1 }
